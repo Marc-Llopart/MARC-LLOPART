@@ -35,6 +35,12 @@ Retail Analytics | Supply Chain | Comportamiento Consumidor | P&L 9,6M€
 
 Google Data Analytics Certificate → Demostrando con proyectos verificables
 
+## 📄 Publicación
+
+**[La Paradoja del Humanoide](https://github.com/Marc-Llopart/la-paradoja-del-humanoide)** - Zenodo (2024)  
+Hipótesis origen temporal visitantes OVNIs basada en análisis probabilístico  
+DOI: [10.5281/zenodo.18037422](https://doi.org/10.5281/zenodo.18037422)
+
 ## 📫 Contacto
 
 - LinkedIn: [Marc Llopart](https://linkedin.com/in/marcllopart)
