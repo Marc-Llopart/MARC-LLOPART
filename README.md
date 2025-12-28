@@ -39,7 +39,7 @@ Google Data Analytics Certificate → Demostrando con proyectos verificables
 
 - LinkedIn: [Marc Llopart](https://linkedin.com/in/marcllopart)
 - Email: 82llopis@gmail.com
-- Newsletter: (https://bit.ly/4oppQeS)
+- Newsletter: https://www.linkedin.com/newsletters/criterio-ia-newsletter-de-ia-7299551377993695232/
 
 ---
 
