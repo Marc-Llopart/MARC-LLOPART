@@ -29,7 +29,7 @@ Retail Analytics | Supply Chain | Comportamiento Consumidor | P&L 9,6M€
 
 - **Business Analyst** @ Bon Preu (8+ años sector retail)
 - **Instructor** @ IEBS Business School (IA aplicada + LinkedIn)
-- **Fundador** @ [Criterio IA](https://criterio-ia.com) (Newsletter ética IA)
+- **Fundador** @ [Criterio IA] (Newsletter ética IA)
 
 ## 📚 Actualmente estudiando
 
