@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Marc Llopart
+### Retail Data Analyst & AI Consultant
 
-<!--
-**Marc-Llopart/MARC-LLOPART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## De panadero a analista de datos
 
-Here are some ideas to get you started:
+10 años amasando pan me enseñaron una lección que ningún Máster da: **si no respetas el proceso y las medidas exactas, el resultado no sirve**. Esa obsesión por la precisión (potenciada por mi Asperger) es la que hoy aplico al análisis de datos y la IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Lo que hago
+
+Traduzco datos complejos en decisiones rentables. No reporto números; cuento historias que la dirección puede ejecutar el lunes a las 6 AM en tienda.
+
+**Impacto medible:**
+- 📉 Mermas 2% → 1% = **100K€/año ahorro** (análisis predictivo inventarios)
+- 📈 Ventas **+8%** categorías clave (rediseño layout basado en comportamiento cliente)
+- ⚡ Eficiencia **+10%** dirección regional (dashboards automatizados)
+
+## 🛠️ Stack Técnico
+
+**Análisis de Datos:**  
+`Python` `SQL` `Excel Avanzado` `Power BI` `Tableau`
+
+**IA Aplicada:**  
+`Claude` `Gemini` `ChatGPT` `Perplexity` → Como herramientas, no como magia
+
+**Dominio:**  
+Retail Analytics | Supply Chain | Comportamiento Consumidor | P&L 9,6M€
+
+## 💼 Experiencia
+
+- **Business Analyst** @ Bon Preu (8+ años sector retail)
+- **Instructor** @ IEBS Business School (IA aplicada + LinkedIn)
+- **Fundador** @ [Criterio IA](https://criterio-ia.com) (Newsletter ética IA)
+
+## 📚 Actualmente estudiando
+
+Google Data Analytics Certificate → Demostrando con proyectos verificables
+
+## 📫 Contacto
+
+- LinkedIn: [Marc Llopart](https://linkedin.com/in/marcllopart)
+- Email: 82llopis@gmail.com
+- Newsletter: [Criterio IA](https://criterio-ia.com)
+
+---
+
+*"Las herramientas al servicio de las personas, nunca al revés."*
