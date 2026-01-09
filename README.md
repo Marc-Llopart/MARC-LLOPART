@@ -63,22 +63,6 @@ Newsletter quincenal sobre uso crítico y ético de IA
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📊 [Dashboard KPIs Retail - Análisis Interactivo](https://github.com/Marc-Llopart/Dashboard-KPIs-Retail)
-Dashboard interactivo con Python y Plotly para análisis de ventas retail.
-- **KPIs**: Revenue $9.5M | 4,681 productos analizados
-- **Clasificación ABC**: Identificación de productos críticos
-- **Stack**: Python, Pandas, Plotly
-
-### 🛒 [Análisis ABC (Pareto) en Retail](https://github.com/Marc-Llopart/Analisis-Pareto-Retail)
-Análisis de clasificación ABC sobre +500K transacciones reales.
-- **Hallazgo**: 22% de productos generan 80% del revenue
-- **Dataset**: Online Retail II (UCI Repository)
-- **Stack**: Python, Pandas, Matplotlib
-
----
-
 ## 📚 Formación en Curso
 
 🎓 **Google Data Analytics Certificate**  
@@ -90,7 +74,7 @@ Análisis de clasificación ABC sobre +500K transacciones reales.
 
 ## 📄 Publicación
 
-**[La Paradoja del Humanoide](https://github.com/Marc-Llopart/la-paradoja-del-humanoide)** - Zenodo (2024)  
+**[La Paradoja del Humanoide](https://github.com/Marc-Llopart/la-paradoja-del-humanoide)** - Zenodo (2025)  
 Hipótesis origen temporal visitantes OVNIs basada en análisis probabilístico  
 DOI: [10.5281/zenodo.18037422](https://doi.org/10.5281/zenodo.18037422)
 
