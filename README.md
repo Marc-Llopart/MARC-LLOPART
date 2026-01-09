@@ -77,12 +77,6 @@ Análisis de clasificación ABC sobre +500K transacciones reales.
 - **Dataset**: Online Retail II (UCI Repository)
 - **Stack**: Python, Pandas, Matplotlib
 
-### 🔬 [La Paradoja del Humanoide](https://github.com/Marc-Llopart/la-paradoja-del-humanoide)
-Hipótesis sobre origen temporal de visitantes OVNIs basada en análisis probabilístico.
-- **Publicación**: Zenodo (2024)
-- **DOI**: [10.5281/zenodo.18037422](https://doi.org/10.5281/zenodo.18037422)
-- Demuestra pensamiento analítico aplicado a datos no estructurados
-
 ---
 
 ## 📚 Formación en Curso
@@ -91,6 +85,14 @@ Hipótesis sobre origen temporal de visitantes OVNIs basada en análisis probabi
 *Completando certificación con proyectos verificables en GitHub*
 
 **Enfoque**: Demostración práctica de competencias, no solo teoría.
+
+---
+
+## 📄 Publicación
+
+**[La Paradoja del Humanoide](https://github.com/Marc-Llopart/la-paradoja-del-humanoide)** - Zenodo (2024)  
+Hipótesis origen temporal visitantes OVNIs basada en análisis probabilístico  
+DOI: [10.5281/zenodo.18037422](https://doi.org/10.5281/zenodo.18037422)
 
 ---
 
@@ -134,7 +136,7 @@ Esa obsesión por la **precisión** (potenciada por mi **Asperger**) es la que h
 ## 📫 Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcllopart">
+  <a href="https://www.linkedin.com/in/marc-llopart/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:82llopis@gmail.com">
@@ -174,7 +176,6 @@ Esa obsesión por la **precisión** (potenciada por mi **Asperger**) es la que h
 - 🥖 Empecé trabajando a las 5 AM haciendo pan (ahora analizo datos a las 5 AM)
 - 🧩 El Asperger me da ventaja en reconocimiento de patrones
 - 📰 Escribo sobre IA con criterio, no con hype
-- 🛸 Una vez publiqué una hipótesis sobre OVNIs en Zenodo (sí, en serio)
 - 🎯 No uso emojis en exceso en la vida real, pero aquí ayudan al escaneo rápido
 
 ---
@@ -186,8 +187,3 @@ Esa obsesión por la **precisión** (potenciada por mi **Asperger**) es la que h
 <p align="center">
   ⭐ Si algún proyecto te parece útil, considera darle una estrella en GitHub
 </p>
-- Newsletter: https://www.linkedin.com/newsletters/criterio-ia-newsletter-de-ia-7299551377993695232/
-
----
-
-*"Las herramientas al servicio de las personas, nunca al revés."*
