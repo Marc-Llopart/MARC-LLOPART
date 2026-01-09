@@ -149,12 +149,6 @@ Esa obsesión por la **precisión** (potenciada por mi **Asperger**) es la que h
 
 ---
 
-## 📊 GitHub Stats
-
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Llopart&show_icons=true&theme=radical)
-
----
-
 ## 🎯 ¿Buscas un Data Analyst?
 
 **Trabajo mejor cuando:**
